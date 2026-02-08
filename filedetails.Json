@@ -1,0 +1,48 @@
+[
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "p_folder_sink" : "AdventureWorks_Products",
+        "p_file_sink" : "AdventureWorks_Products.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "p_folder_sink" : "AdventureWorks_Calendar",
+        "p_file_sink" : "AdventureWorks_Calendar.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_folder_sink" : "AdventureWorks_Product_Categories",
+        "p_file_sink" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "p_folder_sink" : "AdventureWorks_Product_Subcategories",
+        "p_file_sink" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "p_folder_sink" : "AdventureWorks_Returns",
+        "p_file_sink" : "AdventureWorks_Returns.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "p_folder_sink" : "AdventureWorks_Sales_2015",
+        "p_file_sink" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "p_folder_sink" : "AdventureWorks_Sales_2016",
+        "p_file_sink" : "AdventureWorks_Sales_2016.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "p_folder_sink" : "AdventureWorks_Sales_2017",
+        "p_file_sink" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+       "p_rel_url": "anshlambaoldgit/Adventure-Works-Data-Engineering-Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "p_folder_sink" : "AdventureWorks_Territories",
+        "p_file_sink" : "AdventureWorks_Territories.csv"
+    }
+
+]
